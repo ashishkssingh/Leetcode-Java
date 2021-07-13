@@ -4,6 +4,6 @@
 
 LeetCode problem solutions using java
 
-| # | Title                                             | Solution                                  | Difficulty |
-|---|---------------------------------------------------|-------------------------------------------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Scala](./Algorithms/TwoSum/two_sum.java) | Easy       |
+| # | Title                                             | Solution                                | Difficulty |
+|---|---------------------------------------------------|-----------------------------------------|------------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Algorithms/TwoSum/TwoSum.java) | Easy       |
