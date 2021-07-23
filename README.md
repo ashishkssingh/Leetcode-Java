@@ -22,3 +22,4 @@ LeetCode problem solutions using java
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [Java](./Algorithms/MaximumSubarray/MaximumSubarray.java)                     | :zap:       |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | [Java](./Algorithms/LengthOfLastWord/LengthOfLastWord.java)                   | :zap:       |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | [Java](./Algorithms/PlusOne/PlusOne.java)                                     | :zap:       |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | [Java](./Algorithms/AddBinary/AddBinary.java)                                 | :zap:       |
