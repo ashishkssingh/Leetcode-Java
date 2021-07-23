@@ -19,3 +19,4 @@ LeetCode problem solutions using java
 | 26 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 | [Java](./Algorithms/RemoveElement/RemoveElement.java)                         | :zap:       |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                           | [Java](./Algorithms/ImplementStr/ImplementStr.java)                           | :zap:       |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Java](./Algorithms/SearchInsertPosition/SearchInsertPosition.java)           | :zap:       |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [Java](./Algorithms/MaximumSubarray/MaximumSubarray.java)                     | :zap:       |
