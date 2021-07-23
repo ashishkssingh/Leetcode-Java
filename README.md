@@ -18,3 +18,4 @@ LeetCode problem solutions using java
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | [Java](./Algorithms/RemoveDuplicatesFromArray/RemoveDuplicatesFromArray.java) | :zap:       |
 | 26 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 | [Java](./Algorithms/RemoveElement/RemoveElement.java)                         | :zap:       |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                           | [Java](./Algorithms/ImplementStr/ImplementStr.java)                           | :zap:       |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Java](./Algorithms/SearchInsertPosition/SearchInsertPosition.java)           | :zap:       |
