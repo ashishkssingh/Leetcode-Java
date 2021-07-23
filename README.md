@@ -21,3 +21,4 @@ LeetCode problem solutions using java
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Java](./Algorithms/SearchInsertPosition/SearchInsertPosition.java)           | :zap:       |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [Java](./Algorithms/MaximumSubarray/MaximumSubarray.java)                     | :zap:       |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | [Java](./Algorithms/LengthOfLastWord/LengthOfLastWord.java)                   | :zap:       |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | [Java](./Algorithms/PlusOne/PlusOne.java)                                     | :zap:       |
