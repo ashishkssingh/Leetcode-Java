@@ -16,3 +16,4 @@ LeetCode problem solutions using java
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [Java](./Algorithms/ValidParenthesis/ValidParenthesis.java)                   | :zap:       |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [Java](./Algorithms/MergeSortedLists/MergeSortedLists.java)                   | :zap:       |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | [Java](./Algorithms/RemoveDuplicatesFromArray/RemoveDuplicatesFromArray.java) | :zap:       |
+| 26 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                 | [Java](./Algorithms/RemoveElement/RemoveElement.java)                         | :zap:       |
