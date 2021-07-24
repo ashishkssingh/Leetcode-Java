@@ -24,3 +24,4 @@ LeetCode problem solutions using java
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | [Java](./Algorithms/PlusOne/PlusOne.java)                                     | :zap:       |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | [Java](./Algorithms/AddBinary/AddBinary.java)                                 | :zap:       |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                 | [Java](./Algorithms/Sqrt/Sqrt.java)                                           | :zap:       |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | [Java](./Algorithms/ClimbingStairs/ClimbingStairs.java)                       | :zap:       |
